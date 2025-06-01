@@ -53,3 +53,8 @@ isso por motivos de mostrar essa possibilidade em caso de escassez de recursos m
 
 ![image](https://github.com/user-attachments/assets/6ae0a99c-e748-4771-9262-c6f661b276e2)
 
+
+## 💻 Documentação Técnica
+
+
+
